@@ -1,0 +1,40 @@
+{
+    "films": [
+        {
+            "title": "John Wick",
+            "desc": "John Wick is a 2014 American action thriller film directed by Chad Stahelski and written by Derek Kolstad. Keanu Reeves stars as John Wick, a legendary hitman who comes out of retirement to seek revenge against the men who killed his dog, a final gift from his recently deceased wife.",
+            "url": "https://www.imdb.com/title/tt2911666/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_john%2520wi",
+            "photo": "https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg",
+            "rating": "7.4/10",
+            "video_link": "https://drive.google.com/file/d/1Nxi8QpXs6Gs1XCk4sjAnCJbtaSMxLT-8/view?usp=sharing",
+            "video_tg_link": "https://t.me/Moviesbotwatch/6"
+        },
+        {
+            "title": "Five Nights at Freddy's",
+            "desc": "A troubled security guard begins working at Freddy Fazbear's Pizza. During his first night on the job, he realizes that the night shift won't be so easy to get through. Pretty soon he will unveil what actually happened at Freddy's.",
+            "url": "https://www.imdb.com/title/tt4589218/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_five%2520ni",
+            "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Five_Nights_At_Freddy%27s_poster.jpeg/220px-Five_Nights_At_Freddy%27s_poster.jpeg",
+            "rating": "5.5/10",
+            "video_link": "https://drive.google.com/file/d/1trfoEo9BGnrqjqBbk3B3iPVEg_TG8UZC/view?usp=sharing",
+            "video_tg_link": "https://t.me/Moviesbotwatch/3"
+        },
+        {
+            "title": "Dune: Part One",
+            "desc": "A mythic and emotionally charged hero's journey, Dune tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, who must travel to the most dangerous planet in the universe to ensure the future of his family and his people.",
+            "url": "https://www.imdb.com/title/tt1160419/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_Dune",
+            "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Dune_%282021_film%29.jpg/220px-Dune_%282021_film%29.jpg",
+            "rating": "8/10",
+            "video_link": "",
+            "video_tg_link": ""
+        },
+        {
+            "title": "Dune: Part Two",
+            "desc": "Immediately picking up where the first film left off, Dune Part 2 follows Paul Atreides as he unites with the Fremen the natives of the planet Arrakis to seek revenge against the conspirators who destroyed his family. The first thing that any viewer will feel going into the film is the sheer sense of scale.",
+            "url": "https://www.imdb.com/title/tt15239678/?ref_=nv_sr_srsg_3_tt_8_nm_0_q_Dune",
+            "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Dune_Part_Two_poster.jpeg/220px-Dune_Part_Two_poster.jpeg",
+            "rating": "8.9/10",
+            "video_link": "",
+            "video_tg_link": ""
+        }
+    ]
+}
